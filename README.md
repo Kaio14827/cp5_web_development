@@ -1,3 +1,10 @@
+# NOME DOS INTEGRANTES E RM
+- Kaio Drago Lima Souza (RM556095)
+- Nickolas Moreno Cardoso (RM557132)
+- André Giovane De Maria (RM556384)
+- Lucas Roggerio Imparato (RM554896)
+
+
 # CP5-WEB DEVELOPMENT (APLICATIVO DE COMIDA - GOURMETON)
 
 Bem vindo ao app GourmetOn! Um aplicativo que conecta usuários a restaurantes locais, oferecendo opções de entrega ou retirada. O objetivo é proporcionar uma experiência de pedido de comida rápida e simplificada, com foco na usabilidade e na variedade de opções gastronômicas.
